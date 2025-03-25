@@ -19,9 +19,6 @@
     "date",
     "cxxopts",
     "glaze",
-    {
-      "name": "curl",
-      "default-features": false
-    }
+    "curl"
   ]
 }

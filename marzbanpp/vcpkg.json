@@ -20,7 +20,7 @@
     "cxxopts",
     "glaze",
     {
-      "name:" "curl",
+      "name": "curl",
       "default-features": false
     }
   ]

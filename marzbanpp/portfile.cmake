@@ -3,8 +3,8 @@ vcpkg_check_linkage(ONLY_STATIC_LIBRARY)
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO andrascii/marzbanpp
-    REF "${VERSION}"
-    SHA512 a38d05a6b693fd4535d809f5a835cf268ac84bec74f3b67bada8ab3105936cb2f11ca4e16b6082b3e1a368e8a15285ff7a888599eb3a2422c3142e94f106fb7f
+    REF "1.0.2"
+    SHA512 a369b3fc53cf7d27a8b1eb3777d82506e59d561b36f056716e90ae41eaba9a7ede83634c7c2530ab459a70db08b607fa2dba8cdf99ec63edc0aaa10695b4a78d
     HEAD_REF main
 )
 
